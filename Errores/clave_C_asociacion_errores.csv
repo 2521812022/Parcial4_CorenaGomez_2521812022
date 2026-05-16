@@ -1,2 +1,2 @@
-transaccion_id;cliente_id;fecha;categoria;item;cantidad;canal;motivo_error
-C-T0008;C-C0048;2026-02-15;Software;Office;1;;Valor nulo o faltante en alguna de las columnas
+transaccion_id,cliente_id,fecha,categoria,item,cantidad,canal,motivo_error
+C-T0008,C-C0048,2026-02-15,Software,Office,1,,Valor nulo o faltante en alguna de las columnas
