@@ -1,0 +1,4 @@
+cliente_id,edad,ingresos_mensuales,frecuencia_compra,ticket_promedio,satisfaccion,reclamos,uso_app,tiempo_respuesta,consumo_total,motivo_error
+C-C0011,51,391,6,26.67,,2,5,18.83,169.34,Valores incompletos (nulos) en métricas clave
+C-C0021,32,792,8,50.7,5.6,5,5,,358.8,Valores incompletos (nulos) en métricas clave
+C-C0031,44,797,6,,7.01,2,3,20.75,235.98,Valores incompletos (nulos) en métricas clave
